@@ -4,8 +4,4 @@ hello
 hi 
 test branch 의 수정 후...
 test branch 의 수정2
-<<<<<<< HEAD
 main
-=======
-testbranch 에서 다시 수정
->>>>>>> testbranch
